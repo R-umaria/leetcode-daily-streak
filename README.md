@@ -14,11 +14,3 @@ Starting with [Blind 75 List](https://neetcode.io/practice).
 | 5 | [Problem Name](Day05/README.md) | Easy | TBD | ✅ |
 | 6 | [Problem Name](Day06/README.md) | Easy | TBD | ✅ |
 | 7 | [Problem Name](Day07/README.md) | Easy | TBD | ✅ |
-
-## 📊 GitHub LeetCode Badge
-
-Add this badge to your GitHub profile README:
-
-```markdown
-![Leetcode Stats](https://leetcard.jacoblin.cool/r-umaria)
-```
