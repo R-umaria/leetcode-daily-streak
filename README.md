@@ -20,7 +20,5 @@ Starting with [Blind 75 List](https://neetcode.io/practice).
 Add this badge to your GitHub profile README:
 
 ```markdown
-![Leetcode Stats](https://leetcard.jacoblin.cool/rishiumaria)
+![Leetcode Stats](https://leetcard.jacoblin.cool/r-umaria)
 ```
-
-👉 Replace `rishiumaria` with your LeetCode username if different.
